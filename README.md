@@ -7,4 +7,4 @@
 - 💬 Ask me about Javascript, React.js and Node.js
 - 📫 How to reach me: komarovs33@mail.ru
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I studied programming on w3shools
+- ⚡ Fun fact: I studied programming at w3shools
