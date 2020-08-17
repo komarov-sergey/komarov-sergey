@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Clinical Decision Support System
-- 🌱 I’m currently learning Typescript and Node.js
+- 🔭 I’m currently working on Clinical Decision Support System / #1000DaysOfCode
+- 🌱 I’m currently learning React.js, Typescript and Node.js
 - 👯 I’m looking to collaborate on project with ELM language
 - 🤔 I’m looking for help with Functors and Monads
 - 💬 Ask me about Javascript, React.js and Node.js
