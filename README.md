@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning React.js, Typescript and Node.js
 - 📫 How to reach me: komarovs33@mail.ru
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I studied programming at w3shools
+- ⚡ Fun fact: I studied programming at [w3shools](https://www.w3schools.com)
