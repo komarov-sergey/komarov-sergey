@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Clinical Decision Support System / #1000DaysOfCode
 - 🌱 I’m currently learning React.js, Typescript and Node.js
-- 💬 Ask me about Javascript, React.js and Node.js
 - 📫 How to reach me: komarovs33@mail.ru
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I studied programming at w3shools
