@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+### Hi 👋🏻
 
 - 🔭 I’m currently working on: Trusted Online Ecosystem
 - 🌱 I’m currently learning: Boxing / Deno / Typescript / Rust / Node.js
