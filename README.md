@@ -1,6 +1,6 @@
 ### Hi 👋🏻
 
-- 🔭 I’m currently working on: undefined
-- 🌱 I’m currently learning: DDD
+- 🔭 I’m currently working on: startups
+- 🌱 I’m currently learning: DDD | F#
 - 📫 How to reach me: komarovsmail33@gmail.com
 - 🧔🏻‍ Pronouns: he / him
