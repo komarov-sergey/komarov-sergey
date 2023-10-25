@@ -1,7 +1,7 @@
 Hi, I'm Sergey 👋🏻
 <br />
 <br />
-I’m currently working as fullstack developer
+I’m currently work as fullstack developer
 <br />
 <br />
 Work stack:
