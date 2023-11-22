@@ -11,4 +11,4 @@ Work stack:
 <br />
 Hobby stack:
 <br />
-🍺
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
