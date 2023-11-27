@@ -1,4 +1,4 @@
-Hi, I'm Sergey 👋🏻
+Sup, I'm Sergey 👋🏻
 <br />
 <br />
 I’m currently work as fullstack developer
