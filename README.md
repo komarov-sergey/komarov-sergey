@@ -1,8 +1,3 @@
-Sup, I'm Sergey 👋🏻
-<br />
-<br />
-I’m currently work as fullstack developer
-<br />
 <br />
 Work stack:
 <br />
